@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**mvc14/mvc14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mohnish, senior at University of Minnesota majoring in Computer Science. 
 
-Here are some ideas to get you started:
+I am currently working on:
+- Dynamic Time Warping Algorithm in OpenMP (part of CSCI 5451)
+- Theortical Machine Learning
+- Formal Languages
+- Some Leetcode (particularly DP, Matrix, & Graphs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I am particularly interested in High Performance Computing and Infrastructure work.**
+
+### My previous work experiences: 
+* Summer intern at AWS RDS Zero ETL,
+* Research Assistant & Back end engineer at Grouplens Research
+* Secretary of UMN Competitive Programming Club (ICPC 23, 24 & MIPS 24)
+* (current) TA for Algorithms at UMN. 
+
+Feel free to reach out to me at sonsa021 [at] umn [dot] edu for work/project queries :)
